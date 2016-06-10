@@ -1,5 +1,5 @@
 11112222
-<?php
+   <?ph
 
 echo time();
 
